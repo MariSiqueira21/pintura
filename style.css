@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container {
+    max-width: 90%;
+    background-color: #ffffff;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px 0 20px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    background-color: #f5db4a;
+    padding: 10px 0;
+    
+    
+    
+}
+
+h2 {
+    font-size: 14px;
+    background-color: #f5db4a;
+    padding: 0 0 20px 0;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    padding: 20px 0 15px 0;
+    
+    
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    padding: 20px 0 50px 0;
+
+}
+
+
+
+.container2 {
+    background-color: #ffffff;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 20px;
+    max-width: 90%;
+    display: block;
+    border-radius: 0% 0% 1% 1%;
+    text-align: center;
+}
+
+
+.container input {
+    text-align: center;
+    height: 30px;
+    width: 50%;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    display: block;
+    border-radius: 5px;
+}
+
+
+.container2 input {
+     
+    
+    width: 10%;
+    height: 20px;
+    
+    
+}
+
+.container2 h3 {
+    padding: 20px 0;
+    
+}
+
+button {
+    background-color: #f5db4a;
+    height: 35px;
+    width: 20%;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+    
+}
+
+.container2 .labels {
+   
+    padding: 10px;
+    text-align: right;
+    
+    
+    
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    padding: 5px 0;
+    
+    
+}
+
